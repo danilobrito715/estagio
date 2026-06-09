@@ -1,0 +1,37 @@
+site_name: "Projeto Arduino - Documentação"
+site_description: "Documentação oficial do projeto Arduino, feita de forma simples e acessível."
+site_author: "Seu Nome"
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+nav:
+  - Início: index.md
+  - Primeiro Passos:
+      - Início: primeiros-passos/index.md
+      - Requisitos: primeiros-passos/requisitos.md
+      - Códigos Básicos:
+          - Visão Geral: primeiros-passos/codigos-basicos/index.md
+          - Semáforo: primeiros-passos/codigos-basicos/semaforo.md
+          - Pisca LED: primeiros-passos/codigos-basicos/pisca-led.md
+          - Poste: primeiros-passos/codigos-basicos/poste.md
+  - Física:
+      - Visão Geral: fisica/index.md
+      - Projetos:
+          - Cores: fisica/cores/index.md
+          - Força: fisica/forca/index.md
+          - Conversor de Temperatura: fisica/conversor-temperatura/index.md
+      - Mecânica:
+          - Lançamento Vertical: fisica/mecanica/lancamento-vertical/index.md
+  - Química:
+      - Visão Geral: quimica/index.md
+      - Reações: quimica/reacoes/index.md
+      - Sensor de Temperatura: quimica/sensor-de-temperatura/index.md
+  - Matemática:
+      - Visão Geral: matematica/index.md
+      - Ângulos: matematica/angulos/index.md
+  - História:
+      - Visão Geral: historia/index.md
+  - Geografia:
+      - Em breve: geografia/index.md
