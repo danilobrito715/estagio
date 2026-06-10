@@ -1,6 +1,7 @@
 site_name: "Projeto Arduino - Documentação"
 site_description: "Documentação oficial do projeto Arduino, feita de forma simples e acessível."
 site_author: "Seu Nome"
+site_url: https://danilobrito715.github.io/estagio/
 theme:
   name: material
   palette:
