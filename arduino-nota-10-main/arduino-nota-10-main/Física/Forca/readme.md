@@ -34,4 +34,4 @@ Você pode acessar o projeto diretamente através do link abaixo:
 
 ## Montagem do Projeto
 
-![Texto Alternativo](imagens/sensor_forca.png)
+![Texto Alternativo](sensor_forca.png)

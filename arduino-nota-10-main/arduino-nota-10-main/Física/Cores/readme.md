@@ -32,4 +32,4 @@ Você pode acessar o projeto diretamente através do link abaixo:
 
 ## Montagem do Projeto
 
-![Texto Alternativo](imagens/led_rgb_cores.png)
+![Texto Alternativo](led_rgb_cores.png)

@@ -1,26 +1,21 @@
 # Arduino Nota 10
 
-## Documentação do site MkDocs
+## Documentação do site
 
-Este repositório contém a documentação do projeto Arduino Nota 10, criada com MkDocs e o tema Material.
+Este repositório contém a documentação do projeto Arduino Nota 10.
 
 ### Estrutura do repositório
 
 - `.github/` — automações opcionais e workflows.
-- `mkdocs.yml` — configuração do site.
-- `docs/` — conteúdo da documentação que será publicado como site.
+- `docs/` — conteúdo da documentação.
 - `README.md` — documentação técnica e instruções para desenvolvedores.
 
 ### Como trabalhar no site
 
 1. Ative o ambiente virtual:
    - `.\.venv\Scripts\activate`
-2. Instale dependências se necessário:
-   - `.\.venv\Scripts\python -m pip install mkdocs mkdocs-material`
-3. Rode o servidor local:
-   - `mkdocs serve`
-4. Para publicar no GitHub Pages:
-   - `mkdocs gh-deploy`
+2. Instale dependências se necessário.
+3. Use as ferramentas Python locais para gerar ou editar a documentação.
 
 ### Conteúdo principal
 
