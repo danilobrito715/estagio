@@ -1,1 +1,0 @@
-# Sensor de Temperatura - Química
